@@ -11,7 +11,7 @@ Main Advantages of the model include-
 Since the model is Created not on the images but rather using the coordinates of the index locations of the hand,it is resistant to different background and image conditions.Hence this Model generalizes a lot better than the Previous existing models.The key for this project is not the architecture of the modle but rather how the data was collected and used to solve the problem of generalization.  
 
 ![image](https://user-images.githubusercontent.com/88976862/192091639-55ca620c-ff33-433a-bb93-d1fd1a1ec7a0.png)
-![image](https://user-images.githubusercontent.com/88976862/192091645-e84cf55d-c793-4821-b7b1-2f682b1f7d63.png)
+
 
 
 
